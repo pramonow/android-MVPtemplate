@@ -1,4 +1,4 @@
-# MVP Template for Android
+# MVP Template for Android (Kotlin)
 
 <b>What is MVP ?</b><br/>
 Long story short, MVP is Model-View-Presenter, an architecture that was popularized by Android Application Development. It provides a clean solution towards its old predecessor MVC (Model-View Controller). It utilises the uses of interface to power the MVP architecture. It provides a better code for maintenance and testing side. <br/>
