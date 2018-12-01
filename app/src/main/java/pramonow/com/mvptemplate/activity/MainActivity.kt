@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity(),MainInteractor.Activity {
     /*
         We declare our presenter here with our Activity as parameter
         Notes that we can also declare our presenter this way
-        val Presenter:MainInteractor.Presenter = MainPresenter(this)
+        val Presenter:MainContract.Presenter = MainPresenter(this)
 
         As it will regard the presenter as interface
         Why? So if in the future if we have another Presenter that also implements the same interface

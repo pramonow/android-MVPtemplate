@@ -9,7 +9,7 @@ package pramonow.com.mvptemplate
     so as it will not dirty the project path with the number of files
  */
 
-interface MainInteractor{
+interface MainContract{
 
     interface Activity{
         fun showToast(data:DummyModel)
